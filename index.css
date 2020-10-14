@@ -1,0 +1,116 @@
+.news {
+    height: 2586.200;
+    width: 620px;
+    margin-left: ‒240;
+    margin-left: 240px;
+ }
+ 
+ .caption {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #767676;
+ }
+ 
+ .headline {
+    font-size: 2.125rem;
+    line-height: 2.375rem;
+    padding-bottom: 2.25rem;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    font-weight: 400;
+ }
+ 
+ 
+ .subtitle  {
+     font-size: 1.0625rem;
+     line-height: 1.25rem;
+     font-family: "Guardian Egyptian Web",Georgia,serif;
+     font-weight: 700;
+     color: #121212;
+     width: 620px;
+     height: 58px;
+     margin-top: 0px;
+     padding-left: 0px;
+     margin-bottom: 0px;
+     margin-left: 0px;
+ 
+     
+ }
+ 
+ .ending {
+ line-height: 1.5rem;
+ font-family: "Guardian Text Egyptian Web",Georgia,serif;
+ color:  #ab0613;
+ }
+
+a {
+ color: #ab0613
+}
+
+
+.qa2 {
+border-image: repeating-linear-gradient(to bottom, #dcdcdc, #dcdcdc 1px, transparent 1px, transparent 4px) 13;
+border-top: 13px solid black;
+border-left: 0;
+border-right: 0;
+border-bottom: 0;
+background: #f1f1f1;
+position: relative;
+padding: 0 5px 6px;
+margin: 16px 0 36px;
+}
+
+
+.qa {
+    border-image: repeating-linear-gradient(to bottom, #dcdcdc, #dcdcdc 1px, transparent 1px, transparent 4px) 13;
+    border-top: 13px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    background: #f1f1f1;
+    position: relative;
+    padding: 0 5px 6px;
+    margin: 16px 0 36px;
+}
+
+
+span {
+    color: #ab0613 
+}
+
+
+.buttom {
+font-size: 13px;
+position: absolute;
+bottom: 0;
+padding: 0 15px 0 7px;
+background: #121212;
+color: #ffffff;
+}
+
+.buttom:hover {
+    background: red;
+    color: #ffffff;
+  }
+
+  
+  
+.sign{
+    height: 40px;
+    width: 131px;
+    padding-right: 12px;
+    padding-left: 10px;
+    margin-left: 18.600;
+    background-color: #005689;
+    border-color: #005689;
+    color: #ffffff;
+    border: thin solid;
+    border-radius: 62.5rem;
+    width: 25%;
+    margin: 0 0 0 3%;
+}
+
+.email {
+    box-sizing: border-box;
+}
+
